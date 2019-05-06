@@ -16,7 +16,7 @@ function pressIt(){
     if (key.which === "G"){
       alert("wohoo!")
     }
-    
+
   })
 }
 $(document).ready(function(){
