@@ -15,7 +15,7 @@ function pressIt(){
   $('form').on("keydown", function(key){
     if (key.key === "G"){
       alert("wohoo!");
-    }
+    };
   });
 };
 
